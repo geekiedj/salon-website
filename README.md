@@ -1,6 +1,6 @@
 # Salon-Website-Layout
 
-This repository contains code for the Salon-Website-Layout build using HTML and CSS. I built this as a part of HomeWork for class 08 of #100Devs.
+This repository contains code for the Salon-Website-Layout built using HTML and CSS. I built this as a part of HomeWork for class 08 of #100Devs.
 
 # Screenshots -
 
